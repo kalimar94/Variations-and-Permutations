@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsRecursive", "PermutationsRecursive\PermutationsRecursive.csproj", "{B9283114-9A73-42A3-8A55-C2CD0C2192AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariationStrings", "..\VariationStrings\VariationStrings.csproj", "{314D157F-972C-4D21-B073-97F76B346897}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationString", "PermutationString\PermutationString.csproj", "{12665D5C-467A-4D75-B5E9-D21357FB898A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariationStrings", "VariationStrings\VariationStrings.csproj", "{314D157F-972C-4D21-B073-97F76B346897}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,14 +35,14 @@ Global
 		{B9283114-9A73-42A3-8A55-C2CD0C2192AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9283114-9A73-42A3-8A55-C2CD0C2192AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9283114-9A73-42A3-8A55-C2CD0C2192AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{314D157F-972C-4D21-B073-97F76B346897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{314D157F-972C-4D21-B073-97F76B346897}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{314D157F-972C-4D21-B073-97F76B346897}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{314D157F-972C-4D21-B073-97F76B346897}.Release|Any CPU.Build.0 = Release|Any CPU
 		{12665D5C-467A-4D75-B5E9-D21357FB898A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{12665D5C-467A-4D75-B5E9-D21357FB898A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12665D5C-467A-4D75-B5E9-D21357FB898A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12665D5C-467A-4D75-B5E9-D21357FB898A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314D157F-972C-4D21-B073-97F76B346897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314D157F-972C-4D21-B073-97F76B346897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314D157F-972C-4D21-B073-97F76B346897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314D157F-972C-4D21-B073-97F76B346897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
